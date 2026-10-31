@@ -1,0 +1,18 @@
+# Secret
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Database lokal
+*.db
+
+# Editor & OS
+.vscode/
+.DS_Store
+Thumbs.db
